@@ -16,7 +16,7 @@ struct ContentView: View {
             .foregroundColor(Color.gray)
         Text("Fresh Milk, On Demand")
             .fontWeight(.semibold)
-            .foregroundColor(Color.gray)
+            .foregroundColor(Color.pink)
             
         }
       
